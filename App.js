@@ -12,6 +12,9 @@ const App = () => {
 
         </TextInput>
       </View>
+      <View>
+        
+      </View>
     </SafeAreaView>
   )
 }
